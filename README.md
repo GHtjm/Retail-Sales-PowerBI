@@ -10,4 +10,4 @@ Power BI Desktop
 2. Download the Retail sales dashboard.pbit file and import it into PowerBI (Load PowerBI, click 'File' in the top left hand corner, click import template
 
 ## Dashboard Preview
-![alt text](https://github.com/GHtjm/Retail-Sales-PowerBI/blob/main/dashboard.png
+![dashboard](https://github.com/GHtjm/Retail-Sales-PowerBI/blob/main/dashboard.png)
